@@ -16,6 +16,14 @@ No more clutter — with one click, your files are sorted into categories like *
 
 ---
 
+## Screenshots
+
+### Store Front
+![Store Front](screenshots/main_page.png)
+
+### Product Page
+![Product Page](screenshots/organise.png)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -28,10 +36,4 @@ http://127.0.0.1:5000
 
 ---
 
-## Screenshots
 
-### Store Front
-![Store Front](screenshots/main_page.png)
-
-### Product Page
-![Product Page](screenshots/organise.png)
